@@ -23,8 +23,3 @@ https://github.com/undina13/java-shareit
 💾 **Disk** бэкенд для веб-сервиса хранения файлов, аналогичный сервису Яндекс Диск. Пользователь загружает и структурирует файлы в предложенном ему облачном пространстве. Пользователь может скачивать файлы и фиксировать историю их изменений. REST-сервисы с использованием Spring MVC, SpringData, Hibernate, PostgreSQL, Docker Compose. <br />
 https://github.com/undina13/enrollment
 
-Статистика языков в репозиториях:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
-
-Статистика профиля:
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
