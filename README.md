@@ -14,7 +14,7 @@ https://github.com/undina13/java-explore-with-me
 https://github.com/undina13/java-filmorate-1
 
 📙 **Advertesment** - Реализация приложения доски объявлений с реализацией регистрации и аутентификации пользователей. REST-сервис с использованием Spring Security, Spring Boot, Maven, Lombok, Swagger, Postgres, Docker
-
+https://github.com/undina13/backendServer
 
 🎮 **ShareIt** - REST-сервисы с использованием Spring MVC, SpringData, Hibernate, PostgreSQL, Docker Compose. 
 Приложение для обмена вещами среди друзей на время: инструментами, гаджетами, книгами, играми. Как каршеринг, только для вещей.<br />
