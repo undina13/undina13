@@ -1,16 +1,23 @@
-### Hi there 👋
+<a href="https://t.me/undina_13">
+  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
 
-<!--
-**undina13/undina13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Мои проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🎭 **Explore With Me** — приложение, которое дает возможность делиться информацией об интересных событиях и помогает найти компанию для участия в них. Микросервисная архитектура с использованием Spring Boot, Hibernate, PostgreSQL и Docker.<br/>
+https://github.com/undina13/java-explore-with-me
+
+🎥 **Filmorate** - REST-сервис с использованием Spring Boot, Maven, Lombok и взаимодействие с БД  с помощью JDBC: Кинопоиск для своих - социальная сеть, которая
+поможет выбрать кино на основе того, какие фильмы вы и ваши друзья смотрите и какие оценки им ставите.<br />
+https://github.com/undina13/java-filmorate-1
+
+📙 **Advertesment** - Реализация приложения доски объявлений с реализацией регистрации и аутентификации пользователей. REST-сервис с использованием Spring Security, Spring Boot, Maven, Lombok, Swagger, Postgres, Docker
+
+
+🎮 **ShareIt** - REST-сервисы с использованием Spring MVC, SpringData, Hibernate, PostgreSQL, Docker Compose. 
+Приложение для обмена вещами среди друзей на время: инструментами, гаджетами, книгами, играми. Как каршеринг, только для вещей.<br />
+https://github.com/undina13/java-shareit
+
+
